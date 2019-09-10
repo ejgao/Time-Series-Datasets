@@ -7,6 +7,7 @@ First, I did some data exploration and data visualization, and then split the da
 
 Second, I used some time series models in order to forecast the data.
 Forecasting Methods Used:
+	
 	-Naive
 	
 	-Simple Average
